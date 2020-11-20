@@ -2,6 +2,7 @@ import webbrowser
 import pyautogui
 import time
 import keyboard
+import sys
 
 print("   _____                  __        ")
 print("  / ___/____  ____ ______/ /____  __")
